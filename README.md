@@ -1,4 +1,4 @@
-# Basic DHCP, FTP, and NAT Configuration - Experiment 3
+# Basic DHCP, FTP, and NAT Configuration
 
 ## Objective
 This lab focuses on configuring essential network services and verifying their functionality:
